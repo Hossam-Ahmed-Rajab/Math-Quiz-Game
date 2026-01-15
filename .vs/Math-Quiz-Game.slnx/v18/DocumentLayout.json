@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Math-Quiz-Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1F2BD8-5336-4FCB-B532-A7383E0F9C0C}|Math-Quiz-Game\\Math-Quiz-Game.vcxproj|D:\\Math-Quiz-Game\\Math-Quiz-Game\\Math-Quiz-Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF1F2BD8-5336-4FCB-B532-A7383E0F9C0C}|Math-Quiz-Game\\Math-Quiz-Game.vcxproj|solutionrelative:Math-Quiz-Game\\Math-Quiz-Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Math-Quiz-Game.cpp",
+              "DocumentMoniker": "D:\\Math-Quiz-Game\\Math-Quiz-Game\\Math-Quiz-Game.cpp",
+              "RelativeDocumentMoniker": "Math-Quiz-Game\\Math-Quiz-Game.cpp",
+              "ToolTip": "D:\\Math-Quiz-Game\\Math-Quiz-Game\\Math-Quiz-Game.cpp",
+              "RelativeToolTip": "Math-Quiz-Game\\Math-Quiz-Game.cpp",
+              "ViewState": "AgIAAAABAAAAAAAAAAAiwA4BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-15T07:58:26.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
